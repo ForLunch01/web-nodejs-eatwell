@@ -1,0 +1,22 @@
+{
+  "name": "09-web-nodejs-eatwell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForLunch01/web-nodejs-eatwell.git"
+  },
+  "author": "Lunch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForLunch01/web-nodejs-eatwell/issues"
+  },
+  "homepage": "https://github.com/ForLunch01/web-nodejs-eatwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
