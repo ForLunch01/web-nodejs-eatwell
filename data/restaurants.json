@@ -1,16 +1,1 @@
-[
-  {
-    "name": "Test",
-    "address": "Teststreet 5",
-    "cuisine": "Italian",
-    "website": "https://mytest.com",
-    "description": "it's awesome"
-  },
-  {
-    "name": "Test 2",
-    "address": "Test 2 city",
-    "cuisine": "Indian",
-    "website": "https://hihihi.com",
-    "description": "it's also amazing"
-  }
-]
+[{"id":"r1","name":"Test","address":"Teststreet 5","cuisine":"Italian","website":"https://mytest.com","description":"it's awesome"},{"id":"r2","name":"Test 2","address":"Test 2 city","cuisine":"Indian","website":"https://hihihi.com","description":"it's also amazing"},{"name":"Restaurant-test3","address":"testcity3","cuisine":"Meximexican","website":"https://hihihi.com","description":"wow, it's just test","id":"bc2bcfc0-ec69-4183-ae8a-5a1e64111d5c"}]
